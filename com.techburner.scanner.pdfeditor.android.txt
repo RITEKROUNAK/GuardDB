@@ -1,0 +1,6 @@
+{
+  "category": "Others",
+  "permissions": [4, 10],
+  "origin": "Delhi, India"
+  "isRisky": false
+}
